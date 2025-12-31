@@ -248,7 +248,7 @@ const GoldenTicket = () => {
               </div>
 
               <div className="text-[8px] sm:text-[10px] text-amber-500/40 font-mono mt-2">
-                ID: 2026-AKSHAYA-BDAY
+                ID: 27-06-2006
               </div>
             </div>
           </div>
